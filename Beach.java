@@ -16,6 +16,6 @@ public class Beach extends World
     public Beach()
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
-        super(15, 10, 60); 
+        super(15, 12, 60); 
     }
 }
